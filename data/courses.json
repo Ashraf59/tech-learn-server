@@ -1,0 +1,95 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "enroll": 488,
+      "title": "Fundamental of JavaScript",
+      "instructor": {
+        "name": "Mr. Jhon",
+        "course-durarion": "3 months",
+        "img": "https://i.ibb.co/6BtHHpj/charlie-green-3-Jmf-ENc-L24-M-unsplash.jpg"
+      },
+      "image_url": "https://i.ibb.co/hB9H7xs/python.jpg",
+      "details": "Python Course Details: Certificate course in Python is a short-term course, which is generally of 4-6 months duration.  Though there is no specified eligibility criterion to seek admission to a Python course, individuals are still expected to have a basic knowledge of computer programming. The course aims to provide basic knowledge and skills of Python language to students. You will get to know about the Python course details, the fee charged, syllabus, job opportunities, and starting salary expected after completing the course."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "enroll": 488,
+      "title": "Fundamental of Python",
+      "instructor": {
+        "name": "Mr. Jhon",
+        "course-durarion": "3 months",
+        "img": "https://i.ibb.co/6BtHHpj/charlie-green-3-Jmf-ENc-L24-M-unsplash.jpg"
+      },
+      "image_url": "https://i.ibb.co/hB9H7xs/python.jpg",
+      "details": "Python Course Details: Certificate course in Python is a short-term course, which is generally of 4-6 months duration.  Though there is no specified eligibility criterion to seek admission to a Python course, individuals are still expected to have a basic knowledge of computer programming. The course aims to provide basic knowledge and skills of Python language to students. You will get to know about the Python course details, the fee charged, syllabus, job opportunities, and starting salary expected after completing the course."
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "enroll": 488,
+      "title": "Fundamental of Java",
+      "instructor": {
+        "name": "Mr. Jhon",
+        "course-durarion": "3 months",
+        "img": "https://i.ibb.co/6BtHHpj/charlie-green-3-Jmf-ENc-L24-M-unsplash.jpg"
+      },
+      "image_url": "https://i.ibb.co/hB9H7xs/python.jpg",
+      "details": "Python Course Details: Certificate course in Python is a short-term course, which is generally of 4-6 months duration.  Though there is no specified eligibility criterion to seek admission to a Python course, individuals are still expected to have a basic knowledge of computer programming. The course aims to provide basic knowledge and skills of Python language to students. You will get to know about the Python course details, the fee charged, syllabus, job opportunities, and starting salary expected after completing the course."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "enroll": 488,
+      "title": "Fundamental of PHP",
+      "instructor": {
+        "name": "Mr. Jhon",
+        "course-durarion": "3 months",
+        "img": "https://i.ibb.co/6BtHHpj/charlie-green-3-Jmf-ENc-L24-M-unsplash.jpg"
+      },
+      "image_url": "https://i.ibb.co/hB9H7xs/python.jpg",
+      "details": "Python Course Details: Certificate course in Python is a short-term course, which is generally of 4-6 months duration.  Though there is no specified eligibility criterion to seek admission to a Python course, individuals are still expected to have a basic knowledge of computer programming. The course aims to provide basic knowledge and skills of Python language to students. You will get to know about the Python course details, the fee charged, syllabus, job opportunities, and starting salary expected after completing the course."
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "enroll": 488,
+      "title": "Fundamental of C Programming",
+      "instructor": {
+        "name": "Mr. Jhon",
+        "course-durarion": "3 months",
+        "img": "https://i.ibb.co/6BtHHpj/charlie-green-3-Jmf-ENc-L24-M-unsplash.jpg"
+      },
+      "image_url": "https://i.ibb.co/hB9H7xs/python.jpg",
+      "details": "Python Course Details: Certificate course in Python is a short-term course, which is generally of 4-6 months duration.  Though there is no specified eligibility criterion to seek admission to a Python course, individuals are still expected to have a basic knowledge of computer programming. The course aims to provide basic knowledge and skills of Python language to students. You will get to know about the Python course details, the fee charged, syllabus, job opportunities, and starting salary expected after completing the course."
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      
+      "category_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "enroll": 488,
+      "title": "Basic to Advance of HTML & CSS",
+      "instructor": {
+        "name": "Mr. Jhon",
+        "course-durarion": "3 months",
+        "img": "https://i.ibb.co/6BtHHpj/charlie-green-3-Jmf-ENc-L24-M-unsplash.jpg"
+      },
+      "image_url": "https://i.ibb.co/hB9H7xs/python.jpg",
+      "details": "Python Course Details: Certificate course in Python is a short-term course, which is generally of 4-6 months duration.  Though there is no specified eligibility criterion to seek admission to a Python course, individuals are still expected to have a basic knowledge of computer programming. The course aims to provide basic knowledge and skills of Python language to students. You will get to know about the Python course details, the fee charged, syllabus, job opportunities, and starting salary expected after completing the course."
+    }
+
+    
+    
+  ]
