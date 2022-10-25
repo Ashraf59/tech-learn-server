@@ -10,5 +10,5 @@ app.get('/', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log('Tech-Learn Setvier is running on Port', port)
+    console.log('Tech-Learn website is running on Port', port)
 })
