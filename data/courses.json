@@ -7,11 +7,11 @@
       "title": "Fundamental of JavaScript",
       "instructor": {
         "name": "Mr. Jhon",
-        "course-durarion": "3 months",
+        "duration": "3 months",
         "img": "https://i.ibb.co/6BtHHpj/charlie-green-3-Jmf-ENc-L24-M-unsplash.jpg"
       },
-      "image_url": "https://i.ibb.co/hB9H7xs/python.jpg",
-      "details": "Python Course Details: Certificate course in Python is a short-term course, which is generally of 4-6 months duration.  Though there is no specified eligibility criterion to seek admission to a Python course, individuals are still expected to have a basic knowledge of computer programming. The course aims to provide basic knowledge and skills of Python language to students. You will get to know about the Python course details, the fee charged, syllabus, job opportunities, and starting salary expected after completing the course."
+      "image_url": "https://i.ibb.co/9TC07P1/javascript.png",
+      "details": "JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive (e.g., having complex animations, clickable buttons, popup menus, etc.). There are also more advanced server side versions of JavaScript such as Node.js, which allow you to add more functionality to a website than downloading files (such as realtime collaboration between multiple computers). Inside a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to provide programmatic control over them."
     },
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
@@ -21,10 +21,10 @@
       "title": "Fundamental of Python",
       "instructor": {
         "name": "Mr. Jhon",
-        "course-durarion": "3 months",
+        "duration": "3 months",
         "img": "https://i.ibb.co/6BtHHpj/charlie-green-3-Jmf-ENc-L24-M-unsplash.jpg"
       },
-      "image_url": "https://i.ibb.co/hB9H7xs/python.jpg",
+      "image_url": "https://i.ibb.co/G52fT4C/Python-Programming.png",
       "details": "Python Course Details: Certificate course in Python is a short-term course, which is generally of 4-6 months duration.  Though there is no specified eligibility criterion to seek admission to a Python course, individuals are still expected to have a basic knowledge of computer programming. The course aims to provide basic knowledge and skills of Python language to students. You will get to know about the Python course details, the fee charged, syllabus, job opportunities, and starting salary expected after completing the course."
     },
 
@@ -37,11 +37,11 @@
       "title": "Fundamental of Java",
       "instructor": {
         "name": "Mr. Jhon",
-        "course-durarion": "3 months",
+        "duration": "3 months",
         "img": "https://i.ibb.co/6BtHHpj/charlie-green-3-Jmf-ENc-L24-M-unsplash.jpg"
       },
-      "image_url": "https://i.ibb.co/hB9H7xs/python.jpg",
-      "details": "Python Course Details: Certificate course in Python is a short-term course, which is generally of 4-6 months duration.  Though there is no specified eligibility criterion to seek admission to a Python course, individuals are still expected to have a basic knowledge of computer programming. The course aims to provide basic knowledge and skills of Python language to students. You will get to know about the Python course details, the fee charged, syllabus, job opportunities, and starting salary expected after completing the course."
+      "image_url": "https://i.ibb.co/VWwgqKY/Java-Programs.jpg",
+      "details": "Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc."
     },
     {
       "_id": "f69a695f037cd9484cecaea37ca71012",
@@ -52,11 +52,11 @@
       "title": "Fundamental of PHP",
       "instructor": {
         "name": "Mr. Jhon",
-        "course-durarion": "3 months",
+        "duration": "3 months",
         "img": "https://i.ibb.co/6BtHHpj/charlie-green-3-Jmf-ENc-L24-M-unsplash.jpg"
       },
-      "image_url": "https://i.ibb.co/hB9H7xs/python.jpg",
-      "details": "Python Course Details: Certificate course in Python is a short-term course, which is generally of 4-6 months duration.  Though there is no specified eligibility criterion to seek admission to a Python course, individuals are still expected to have a basic knowledge of computer programming. The course aims to provide basic knowledge and skills of Python language to students. You will get to know about the Python course details, the fee charged, syllabus, job opportunities, and starting salary expected after completing the course."
+      "image_url": "https://i.ibb.co/rxj3n6R/php.jpg",
+      "details": "PHP is a server side scripting language. that is used to develop Static websites or Dynamic websites or Web applications. PHP stands for Hypertext Pre-processor, that earlier stood for Personal Home Pages."
     },
 
     {
@@ -68,11 +68,11 @@
       "title": "Fundamental of C Programming",
       "instructor": {
         "name": "Mr. Jhon",
-        "course-durarion": "3 months",
+        "duration": "3 months",
         "img": "https://i.ibb.co/6BtHHpj/charlie-green-3-Jmf-ENc-L24-M-unsplash.jpg"
       },
-      "image_url": "https://i.ibb.co/hB9H7xs/python.jpg",
-      "details": "Python Course Details: Certificate course in Python is a short-term course, which is generally of 4-6 months duration.  Though there is no specified eligibility criterion to seek admission to a Python course, individuals are still expected to have a basic knowledge of computer programming. The course aims to provide basic knowledge and skills of Python language to students. You will get to know about the Python course details, the fee charged, syllabus, job opportunities, and starting salary expected after completing the course."
+      "image_url": "https://i.ibb.co/rZ0fQ5D/C-programming.png",
+      "details": "C is a general-purpose programming language that is extremely popular, simple, and flexible to use. It is a structured programming language that is machine-independent and extensively used to write various applications, Operating Systems like Windows, and many other complex programs like Oracle database, Git, Python interpreter,."
     },
     {
       "_id": "11468ed61aee84de492a8b04158a22f0",
@@ -83,11 +83,11 @@
       "title": "Basic to Advance of HTML & CSS",
       "instructor": {
         "name": "Mr. Jhon",
-        "course-durarion": "3 months",
+        "duration": "3 months",
         "img": "https://i.ibb.co/6BtHHpj/charlie-green-3-Jmf-ENc-L24-M-unsplash.jpg"
       },
-      "image_url": "https://i.ibb.co/hB9H7xs/python.jpg",
-      "details": "Python Course Details: Certificate course in Python is a short-term course, which is generally of 4-6 months duration.  Though there is no specified eligibility criterion to seek admission to a Python course, individuals are still expected to have a basic knowledge of computer programming. The course aims to provide basic knowledge and skills of Python language to students. You will get to know about the Python course details, the fee charged, syllabus, job opportunities, and starting salary expected after completing the course."
+      "image_url": "https://i.ibb.co/cJXPqNw/html-css.jpg",
+      "details": "HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices."
     }
 
     
